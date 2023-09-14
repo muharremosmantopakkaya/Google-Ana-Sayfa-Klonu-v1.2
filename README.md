@@ -4,8 +4,4 @@ Bu projede, önce Google Ana Sayfası'nı dark tema üzerinde tasarladım ve ard
 
 ![google](https://img001.prntscr.com/file/img001/fi_Y2vwxSi2mrL7yda78jQ.png)
 
-**Daha Fazla Geri Bildirim**
 
-Eğer projemle ilgili herhangi bir geri bildiriminiz veya sorunuz varsa, lütfen bana ulaşmaktan çekinmeyin. Sizin görüşleriniz benim için önemlidir.
-
-https://asroyx.github.io/google-homepage-clone/
